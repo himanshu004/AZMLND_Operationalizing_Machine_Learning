@@ -71,7 +71,7 @@ The architecural diagram explains the flow of the project in a pictorial represe
 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+[Link to screencast:](https://youtu.be/Op12S3ZUnCs)
 
 ## Scope of improvement:
 Providing the option of enabling deep learning during AutoML model creation would prove beneficial in terms of results and learning. Cross-comparing the models on factors like scoring metric, computational complexity, running time can also be added. 
